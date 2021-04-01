@@ -1,2 +1,2 @@
 def do():
-    print('This is the begninning')
+    print('This is the second version')
